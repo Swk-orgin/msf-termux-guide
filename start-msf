@@ -1,2 +1,2 @@
-cd .msf-termux-core/index.html
+cd .msf-termux-core/
 php -S localhost:8082
