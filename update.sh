@@ -1,6 +1,3 @@
-
-rm -rf $HOME/msf-termux-guide
-git clone https://github.com/Learn-Termux/msf-termux-guide.git
-cd msf-termux-guide/
-chmod +x install.sh
-./install.sh
+cp update-core.sh $HOME 
+chmod +x $HOME/update-core.sh
+./update-core.sh
