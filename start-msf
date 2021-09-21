@@ -14,8 +14,8 @@ cd $HOME/.msf-termux-core/
 
 
 echo -e "$green Server Started Sucessfully"
-echo -e "$cyan Open Browser And Type
-echo -e "$magneta '   http://localhost:8082 '
+echo -e "$cyan Open Browser And Type "
+echo -e "$magneta '   http://localhost:8082 ' "
 echo -e "$green Press Ctrl + c To Exit .... "
 echo -e "$reset "
 
