@@ -1,3 +1,4 @@
+cd $HOME
 rm -rf $HOME/msf-termux-guide
 rm -rf $HOME/.msf-termux-core
 git clone https://github.com/Learn-Termux/msf-termux-guide.git
