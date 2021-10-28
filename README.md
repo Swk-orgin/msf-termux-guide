@@ -1,7 +1,7 @@
 # msf-termux-guide
 
 Hi Viwers   !!!
-## V 1.0.1
+## V 1.0.2
 
 Clone this wiki :
 ```
@@ -11,6 +11,6 @@ bash install.sh
 ```
 
 
-note:This site is under developing ...
+note:This project is under developing ...
 
  
